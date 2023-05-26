@@ -1,0 +1,76 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+
+.carousel-inner{
+    height: 700px;
+}
+
+
+
+.pregrest{
+    width: 70%;
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+
+.acordion{
+    display: flex;
+    justify-content: center;
+}
+
+.form-outline{
+    margin-bottom: 30px;
+}
+
+.bienvenida p{
+    text-align: justify;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.bienvenida{
+    display: flex;
+    justify-content: center;
+    width: 35%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.bloqueuno{
+    display: flex;
+    justify-content: center;
+}
+
+.mision-vision{
+    max-width: 45%;
+    
+}
+
+.mision-principal{
+    display: flex;
+    justify-content: center;
+}
+
+.card-text{
+    text-align: justify;
+}
+
+.footer{
+    margin-top: 25px;
+}
+
+.card-header{
+    font-weight:bold;
+    font-size: 20px;
+    color: rgb(0, 0, 161);
+}
+
+#img-mujer{
+    height: 200px;
+    width: 200px;
+}
+
+.card-group{
+    margin-top: 50px;
+}
